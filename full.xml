@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <products version="1.0.0" extraAttr="test">
+    <product>
+      <reference>AB123</reference>
+      <gtin>3760000000011</gtin>
+      <name><![CDATA[ My best mug ]]></name>
+      <link><![CDATA[http://ps-dev.shopping-feed.com/index.php?id_product=8&controller=product]]></link>
+      <price>10</price>
+      <quantity>2</quantity>
+      <vat>20.0</vat>
+      <ecotax>0.56</ecotax>
+      <weight>2.5</weight>
+      <brand>
+        <name><![CDATA[ Fashion Manufacturer ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com]]></link>
+      </brand>
+      <category>
+        <name><![CDATA[ Root > Home > Mugs ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com/mugs]]></link>
+      </category>
+      <discounts>
+        <discount>8</discount>
+      </discounts>
+      <description>
+        <full><![CDATA[ <p>Very good mug</p> ]]></full>
+        <short><![CDATA[ <p>A mug</p> ]]></short>
+      </description>
+      <shippings>
+        <shipping>
+          <amount>5.90</amount>
+          <label><![CDATA[ Retrait magasin ]]></label>
+        </shipping>
+      </shippings>
+      <images>
+        <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/p/2/6/26-large_default.jpg]]></image>
+      </images>
+      <attributes>
+        <attribute>
+          <name>Capacity</name>
+          <value>10</value>
+        </attribute>
+        <attribute>
+          <name>Material</name>
+          <value>Iron</value>
+        </attribute>
+      </attributes>
+      <variations>
+        <variation>
+          <reference>AB123-RED-S</reference>
+          <gtin>3760000000028</gtin>
+          <quantity>1</quantity>
+          <price>10</price>
+          <weight>2.5</weight>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/p/2/6/26-large_default.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>Red</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Small</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>AB123-BLUE-M</reference>
+          <gtin>3760000000035</gtin>
+          <quantity>1</quantity>
+          <price>10</price>
+          <weight>2.5</weight>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/p/2/6/26-large_default.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>Blue</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Medium</value>
+            </attribute>
+          </attributes>
+        </variation>
+      </variations>
+    </product>
+
+    <product>
+      <reference>TSHIRT-001</reference>
+      <name><![CDATA[ T-shirt unisexe essentiel ]]></name>
+      <link><![CDATA[http://ps-dev.shopping-feed.com/index.php?id_product=42&controller=product]]></link>
+      <price>24.90</price>
+      <quantity>22</quantity>
+      <vat>20.0</vat>
+      <weight>0.25</weight>
+      <brand>
+        <name><![CDATA[ Fashion Manufacturer ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com]]></link>
+      </brand>
+      <category>
+        <name><![CDATA[ Root > Mode > Vêtements > T-shirts ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com/t-shirts]]></link>
+      </category>
+      <discounts>
+        <discount type="price">19.90</discount>
+      </discounts>
+      <description>
+        <full><![CDATA[ <p>T-shirt unisexe en coton biologique, coupe droite et col rond.</p> ]]></full>
+        <short><![CDATA[ <p>T-shirt unisexe 100 % coton biologique.</p> ]]></short>
+      </description>
+      <shippings>
+        <shipping>
+          <amount>4.90</amount>
+          <label><![CDATA[ Livraison standard ]]></label>
+        </shipping>
+      </shippings>
+      <images>
+        <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-main.jpg]]></image>
+        <image type="additional"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-back.jpg]]></image>
+      </images>
+      <attributes>
+        <attribute>
+          <name>Material</name>
+          <value>Organic cotton</value>
+        </attribute>
+        <attribute>
+          <name>Gender</name>
+          <value>Unisex</value>
+        </attribute>
+      </attributes>
+      <variations>
+        <variation>
+          <reference>TSHIRT-001-BLK-S</reference>
+          <gtin>3760000000042</gtin>
+          <quantity>5</quantity>
+          <price>24.90</price>
+          <weight>0.23</weight>
+          <discounts>
+            <discount type="price">19.90</discount>
+          </discounts>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-black.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>Black</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Small</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>TSHIRT-001-BLK-M</reference>
+          <gtin>3760000000059</gtin>
+          <quantity>8</quantity>
+          <price>24.90</price>
+          <weight>0.25</weight>
+          <discounts>
+            <discount type="price">19.90</discount>
+          </discounts>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-black.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>Black</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Medium</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>TSHIRT-001-WHT-S</reference>
+          <gtin>3760000000066</gtin>
+          <quantity>3</quantity>
+          <price>24.90</price>
+          <weight>0.23</weight>
+          <discounts>
+            <discount type="price">19.90</discount>
+          </discounts>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-white.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>White</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Small</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>TSHIRT-001-WHT-M</reference>
+          <gtin>3760000000073</gtin>
+          <quantity>6</quantity>
+          <price>24.90</price>
+          <weight>0.25</weight>
+          <discounts>
+            <discount type="price">19.90</discount>
+          </discounts>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/tshirt/tshirt-white.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Color</name>
+              <value>White</value>
+            </attribute>
+            <attribute>
+              <name>Size</name>
+              <value>Medium</value>
+            </attribute>
+          </attributes>
+        </variation>
+      </variations>
+    </product>
+  </products>
+  <metadata>
+    <agent>shopping-feed-php-sdk:1.0.0</agent>
+    <platform>Magento:2.0.1</platform>
+    <startedAt>2026-09-07T09:00:00</startedAt>
+    <finishedAt>2026-09-07T09:01:00</finishedAt>
+    <invalid>0</invalid>
+    <ignored>0</ignored>
+    <written>2</written>
+  </metadata>
+</catalog>
