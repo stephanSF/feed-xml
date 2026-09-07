@@ -227,6 +227,117 @@
         </variation>
       </variations>
     </product>
+
+    <product>
+      <reference>NAILS-001</reference>
+      <name><![CDATA[ Clous en fer à tête plate ]]></name>
+      <link><![CDATA[http://ps-dev.shopping-feed.com/index.php?id_product=84&controller=product]]></link>
+      <price>8.90</price>
+      <quantity>1500</quantity>
+      <vat>20.0</vat>
+      <weight>1.0</weight>
+      <brand>
+        <name><![CDATA[ Hardware Manufacturer ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com]]></link>
+      </brand>
+      <category>
+        <name><![CDATA[ Root > Bricolage > Quincaillerie > Clous ]]></name>
+        <link><![CDATA[http://ps-dev.shopping-feed.com/clous]]></link>
+      </category>
+      <description>
+        <full><![CDATA[ <p>Clous en fer à tête plate adaptés aux travaux de menuiserie et de bricolage.</p> ]]></full>
+        <short><![CDATA[ <p>Clous en fer à tête plate.</p> ]]></short>
+      </description>
+      <shippings>
+        <shipping>
+          <amount>6.90</amount>
+          <label><![CDATA[ Livraison standard ]]></label>
+        </shipping>
+      </shippings>
+      <images>
+        <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/nails/nails-main.jpg]]></image>
+      </images>
+      <attributes>
+        <attribute>
+          <name>Material</name>
+          <value>Iron</value>
+        </attribute>
+      </attributes>
+      <variations>
+        <variation>
+          <reference>NAILS-001-30X2</reference>
+          <gtin>3760000000080</gtin>
+          <quantity>500</quantity>
+          <price>8.90</price>
+          <weight>1.0</weight>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/nails/nails-30x2.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Length</name>
+              <value>30 mm</value>
+            </attribute>
+            <attribute>
+              <name>Diameter</name>
+              <value>2 mm</value>
+            </attribute>
+            <attribute>
+              <name>Material</name>
+              <value>Iron</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>NAILS-001-50X25</reference>
+          <gtin>3760000000097</gtin>
+          <quantity>600</quantity>
+          <price>10.90</price>
+          <weight>1.0</weight>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/nails/nails-50x25.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Length</name>
+              <value>50 mm</value>
+            </attribute>
+            <attribute>
+              <name>Diameter</name>
+              <value>2.5 mm</value>
+            </attribute>
+            <attribute>
+              <name>Material</name>
+              <value>Iron</value>
+            </attribute>
+          </attributes>
+        </variation>
+        <variation>
+          <reference>NAILS-001-70X3</reference>
+          <gtin>3760000000103</gtin>
+          <quantity>400</quantity>
+          <price>12.90</price>
+          <weight>1.0</weight>
+          <images>
+            <image type="main"><![CDATA[http://ps-dev.shopping-feed.com/img/nails/nails-70x3.jpg]]></image>
+          </images>
+          <attributes>
+            <attribute>
+              <name>Length</name>
+              <value>70 mm</value>
+            </attribute>
+            <attribute>
+              <name>Diameter</name>
+              <value>3 mm</value>
+            </attribute>
+            <attribute>
+              <name>Material</name>
+              <value>Iron</value>
+            </attribute>
+          </attributes>
+        </variation>
+      </variations>
+    </product>
   </products>
   <metadata>
     <agent>shopping-feed-php-sdk:1.0.0</agent>
@@ -235,6 +346,6 @@
     <finishedAt>2026-09-07T09:01:00</finishedAt>
     <invalid>0</invalid>
     <ignored>0</ignored>
-    <written>2</written>
+    <written>3</written>
   </metadata>
 </catalog>
