@@ -44,10 +44,7 @@
           <name>Material</name>
           <value>Iron</value>
         </attribute>
-        <attribute>
-          <name>loyalty_program</name>
-          <value>Prix club</value>
-        </attribute>
+        
       </attributes>
       <variations>
         <variation>
